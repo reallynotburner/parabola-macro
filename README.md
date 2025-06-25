@@ -12,7 +12,7 @@ Function that uses current tool position and arguments to make parabolic shapes 
 - Scale the parabola in the X direction with the C argument.  Negative value for C will cause the curve to move in the X- direction.
 
 ## Usage
-    ```
+```eia
     ; O19760041
     ; PARABOLIC MACRO USAGE
     G28U0W0 ;
@@ -22,7 +22,7 @@ Function that uses current tool position and arguments to make parabolic shapes 
     ; CALL MACRO
     G65 P19760020 X0. Z0. A0. B6. C1. D.1 U.010 W.005 ;
     M30 ;
-    ```
+```
 ## Contributing
 Contributions are welcome! Do a pull request, make a comment.
 
