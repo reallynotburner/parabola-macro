@@ -1,5 +1,7 @@
 # Parabola Macro
 
+![PHOTO OF PARABOLIC TOOLPATHS](/IMG_0626.jpg "DEMO")
+
 ## Overview
 Function that uses current tool position and arguments to make parabolic shapes out of round stock in Computer Numerically Controlled (CNC) lathes.  The code is EIA-ISO, known to machinists as [G Code](https://en.wikipedia.org/wiki/G-code).
 
